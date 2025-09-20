@@ -1,0 +1,5 @@
+.env
+/songs
+.venv
+recorded.wav
+/tests
